@@ -15,7 +15,7 @@ Using TSNE clustering to visualize multi-dimensional data, it is clear that diff
 
 
 ##Dish Recommender based on flavor similarity
-Based on cosine similarity, I am able to recommend dishes based on flavor. The recommender will return top 20 dishes most similar to the query, in terms of flavor.
+Based on cosine similarity, I am able to recommend dishes based on flavor. The recommender will return top 20 dishes most similar to the query, in terms of flavor. The top matches usually come from the same region. Top 20 matches usually include dishes from other regional cuisines. This is a fun way to discover new cuisines based on flavor profile.  
 
 
 ##Future directions
@@ -26,19 +26,19 @@ Finally, human taste perception is rather complex, influenced by other sensory e
 The current version of dish recommender based on flavor network has a lot of room for improvement. A more comprehensive flavor compound dataset, including compound concentration and covering more food ingredients will improve it tremendously. A bigger dataset of recipes will improve the recommender as well, perhaps to a lesser degree than the flavor compound dataset.
 
 ##Toolkit
-cytoscape
-networkx
-pandas
-numpy
-scipy
-nltk
-matplotlib
-seaborn
-sklearn (classification and clustering)
-webscrapping
-pickle
-EC2
-S3 for backup
+pandas <br>
+sklearn<br>
+cytoscape <br>
+networkx <br>
+numpy <br>
+scipy <br>
+nltk<br>
+matplotlib<br>
+seaborn<br>
+webscrapping<br>
+pickle<br>
+EC2<br>
+S3 for backup<br>
 
 ##Reference
 Flavor network and the principles of food pairing. Y.-Y. Ahn, S. Ahnert, J. P. Bagrow, and A.-L. Barabási . Scientific Reports 1, 196 (2011)
