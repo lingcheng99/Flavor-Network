@@ -1,0 +1,1471 @@
+0,1,2,category,prevalence
+orange_peel,orange,14,plant,0.0273017994368
+orange,orange_peel,14,fruit,0.0815712853802
+orange,orange_juice,54,fruit,0.0815712853802
+orange,citrus,51,fruit,0.0815712853802
+orange,citrus_peel,40,fruit,0.0815712853802
+orange,nutmeg,19,fruit,0.0815712853802
+orange,bergamot,9,fruit,0.0815712853802
+orange,strawberry,69,fruit,0.0815712853802
+orange,grapefruit,30,fruit,0.0815712853802
+orange,mandarin,57,fruit,0.0815712853802
+orange,lemon_peel,8,fruit,0.0815712853802
+orange,apple,67,fruit,0.0815712853802
+orange,lime,56,fruit,0.0815712853802
+orange,bitter_orange,23,fruit,0.0815712853802
+orange,basil,10,fruit,0.0815712853802
+orange,tangerine,62,fruit,0.0815712853802
+orange,lemon,69,fruit,0.0815712853802
+cinnamon,tarragon,7,spice,0.267433535392
+cinnamon,anise,10,spice,0.267433535392
+cinnamon,ginger,23,spice,0.267433535392
+cinnamon,fennel,10,spice,0.267433535392
+cinnamon,nutmeg,20,spice,0.267433535392
+cinnamon,guava,25,spice,0.267433535392
+cinnamon,star_anise,7,spice,0.267433535392
+tarragon,cinnamon,7,herb,0.0227196792516
+anise,cinnamon,10,spice,0.0106438833469
+anise,star_anise,7,spice,0.0106438833469
+anise,clove,9,spice,0.0106438833469
+ginger,cinnamon,23,spice,0.182139277361
+ginger,marjoram,18,spice,0.182139277361
+ginger,nutmeg,22,spice,0.182139277361
+ginger,rosemary,17,spice,0.182139277361
+ginger,mace,16,spice,0.182139277361
+fennel,cinnamon,10,herb,0.0432914896664
+fennel,star_anise,7,herb,0.0432914896664
+nutmeg,cinnamon,20,spice,0.119898811513
+nutmeg,ginger,22,spice,0.119898811513
+nutmeg,mace,17,spice,0.119898811513
+nutmeg,seed,12,spice,0.119898811513
+nutmeg,orange,19,spice,0.119898811513
+nutmeg,black_sesame_seed,12,spice,0.119898811513
+nutmeg,rapeseed,12,spice,0.119898811513
+guava,cinnamon,25,fruit,0.000620495441745
+guava,strawberry,83,fruit,0.000620495441745
+guava,nectarine,32,fruit,0.000620495441745
+guava,black_tea,82,fruit,0.000620495441745
+star_anise,cinnamon,7,spice,0.00434346809222
+star_anise,fennel,7,spice,0.00434346809222
+star_anise,anise,7,spice,0.00434346809222
+cherry,apple,31,fruit,0.0517397737578
+apple,cherry,31,fruit,0.115412152165
+apple,cabernet_sauvignon_wine,86,fruit,0.115412152165
+apple,orange_juice,30,fruit,0.115412152165
+apple,white_wine,105,fruit,0.115412152165
+apple,pineapple,64,fruit,0.115412152165
+apple,grape,79,fruit,0.115412152165
+apple,cognac,86,fruit,0.115412152165
+apple,melon,71,fruit,0.115412152165
+apple,apple_brandy,14,fruit,0.115412152165
+apple,cider,59,fruit,0.115412152165
+apple,strawberry,114,fruit,0.115412152165
+apple,quince,36,fruit,0.115412152165
+apple,bartlett_pear,44,fruit,0.115412152165
+apple,banana,85,fruit,0.115412152165
+apple,pear,44,fruit,0.115412152165
+apple,concord_grape,80,fruit,0.115412152165
+apple,plum,64,fruit,0.115412152165
+apple,muscat_grape,81,fruit,0.115412152165
+apple,honey,41,fruit,0.115412152165
+apple,nectarine,32,fruit,0.115412152165
+apple,beer,91,fruit,0.115412152165
+apple,orange,67,fruit,0.115412152165
+apple,kiwi,36,fruit,0.115412152165
+apple,red_wine,86,fruit,0.115412152165
+apple,apricot,74,fruit,0.115412152165
+roasted_pork,pork,115,meat,0.00596630232447
+roasted_pork,raw_beef,100,meat,0.00596630232447
+roasted_pork,beef,100,meat,0.00596630232447
+roasted_pork,bacon,115,meat,0.00596630232447
+roasted_pork,cured_pork,115,meat,0.00596630232447
+roasted_pork,chicken,81,meat,0.00596630232447
+roasted_pork,roasted_beef,100,meat,0.00596630232447
+roasted_pork,pork_sausage,115,meat,0.00596630232447
+pork,roasted_pork,115,meat,0.0937425421221
+pork,chicken,80,meat,0.0937425421221
+pork,raw_beef,97,meat,0.0937425421221
+pork,beef,97,meat,0.0937425421221
+pork,bacon,115,meat,0.0937425421221
+pork,cured_pork,115,meat,0.0937425421221
+pork,roasted_beef,97,meat,0.0937425421221
+pork,pork_sausage,115,meat,0.0937425421221
+raw_beef,roasted_pork,100,meat,9.54608371915e-05
+raw_beef,chicken,98,meat,9.54608371915e-05
+raw_beef,lamb,58,meat,9.54608371915e-05
+raw_beef,pork,97,meat,9.54608371915e-05
+raw_beef,beef,199,meat,9.54608371915e-05
+raw_beef,roasted_peanut,99,meat,9.54608371915e-05
+raw_beef,caviar,18,meat,9.54608371915e-05
+raw_beef,peanut,72,meat,9.54608371915e-05
+raw_beef,bacon,102,meat,9.54608371915e-05
+raw_beef,coffee,102,meat,9.54608371915e-05
+raw_beef,onion,30,meat,9.54608371915e-05
+raw_beef,cured_pork,103,meat,9.54608371915e-05
+raw_beef,beer,102,meat,9.54608371915e-05
+raw_beef,baked_potato,78,meat,9.54608371915e-05
+raw_beef,peanut_butter,99,meat,9.54608371915e-05
+raw_beef,soybean,96,meat,9.54608371915e-05
+raw_beef,roasted_beef,199,meat,9.54608371915e-05
+raw_beef,pork_sausage,101,meat,9.54608371915e-05
+raw_beef,pork_liver,16,meat,9.54608371915e-05
+beef,roasted_pork,100,meat,0.230156078469
+beef,chicken,98,meat,0.230156078469
+beef,raw_beef,199,meat,0.230156078469
+beef,peanut,72,meat,0.230156078469
+beef,coffee,102,meat,0.230156078469
+beef,peanut_butter,99,meat,0.230156078469
+beef,onion,30,meat,0.230156078469
+beef,pork,97,meat,0.230156078469
+beef,bacon,102,meat,0.230156078469
+beef,roasted_peanut,99,meat,0.230156078469
+beef,soybean,96,meat,0.230156078469
+beef,lamb,58,meat,0.230156078469
+beef,caviar,18,meat,0.230156078469
+beef,cured_pork,103,meat,0.230156078469
+beef,beer,102,meat,0.230156078469
+beef,baked_potato,78,meat,0.230156078469
+beef,roasted_beef,199,meat,0.230156078469
+beef,pork_sausage,101,meat,0.230156078469
+beef,pork_liver,16,meat,0.230156078469
+bacon,roasted_pork,115,meat,0.102906782492
+bacon,chicken,84,meat,0.102906782492
+bacon,raw_beef,102,meat,0.102906782492
+bacon,pork,115,meat,0.102906782492
+bacon,beef,102,meat,0.102906782492
+bacon,cured_pork,115,meat,0.102906782492
+bacon,roasted_beef,102,meat,0.102906782492
+bacon,pork_sausage,119,meat,0.102906782492
+cured_pork,roasted_pork,115,meat,0.0149873514391
+cured_pork,chicken,83,meat,0.0149873514391
+cured_pork,raw_beef,103,meat,0.0149873514391
+cured_pork,pork,115,meat,0.0149873514391
+cured_pork,bacon,115,meat,0.0149873514391
+cured_pork,beef,103,meat,0.0149873514391
+cured_pork,roasted_beef,105,meat,0.0149873514391
+cured_pork,pork_sausage,115,meat,0.0149873514391
+chicken,roasted_pork,81,meat,0.252684836046
+chicken,pork,80,meat,0.252684836046
+chicken,raw_beef,98,meat,0.252684836046
+chicken,beef,98,meat,0.252684836046
+chicken,bacon,84,meat,0.252684836046
+chicken,cured_pork,83,meat,0.252684836046
+chicken,roasted_beef,99,meat,0.252684836046
+chicken,pork_sausage,84,meat,0.252684836046
+roasted_beef,roasted_pork,100,meat,0.0105961529283
+roasted_beef,chicken,99,meat,0.0105961529283
+roasted_beef,milk,77,meat,0.0105961529283
+roasted_beef,raw_beef,199,meat,0.0105961529283
+roasted_beef,peanut,74,meat,0.0105961529283
+roasted_beef,coffee,105,meat,0.0105961529283
+roasted_beef,peanut_butter,105,meat,0.0105961529283
+roasted_beef,onion,32,meat,0.0105961529283
+roasted_beef,pork,97,meat,0.0105961529283
+roasted_beef,bacon,102,meat,0.0105961529283
+roasted_beef,roasted_peanut,105,meat,0.0105961529283
+roasted_beef,soybean,100,meat,0.0105961529283
+roasted_beef,beef,199,meat,0.0105961529283
+roasted_beef,caviar,18,meat,0.0105961529283
+roasted_beef,cured_pork,105,meat,0.0105961529283
+roasted_beef,beer,106,meat,0.0105961529283
+roasted_beef,lamb,58,meat,0.0105961529283
+roasted_beef,sturgeon_caviar,19,meat,0.0105961529283
+roasted_beef,shallot,10,meat,0.0105961529283
+roasted_beef,baked_potato,79,meat,0.0105961529283
+roasted_beef,garlic,11,meat,0.0105961529283
+roasted_beef,pork_sausage,101,meat,0.0105961529283
+roasted_beef,butter,81,meat,0.0105961529283
+roasted_beef,potato,66,meat,0.0105961529283
+roasted_beef,potato_chip,24,meat,0.0105961529283
+roasted_beef,pork_liver,16,meat,0.0105961529283
+roasted_beef,egg,42,meat,0.0105961529283
+pork_sausage,roasted_pork,115,meat,0.0650088301274
+pork_sausage,chicken,84,meat,0.0650088301274
+pork_sausage,raw_beef,101,meat,0.0650088301274
+pork_sausage,pork,115,meat,0.0650088301274
+pork_sausage,bacon,119,meat,0.0650088301274
+pork_sausage,beef,101,meat,0.0650088301274
+pork_sausage,cured_pork,115,meat,0.0650088301274
+pork_sausage,roasted_beef,101,meat,0.0650088301274
+cabernet_sauvignon_wine,jamaican_rum,88,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,apple,86,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,rum,86,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,red_wine,165,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,cider,52,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,port_wine,133,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,white_wine,155,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,champagne_wine,128,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,whiskey,68,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,beer,107,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,cognac,94,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,pineapple,55,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,sherry,138,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,apple_brandy,17,alcoholic beverage,0.000811417116128
+cabernet_sauvignon_wine,wine,128,alcoholic beverage,0.000811417116128
+jamaican_rum,cabernet_sauvignon_wine,88,alcoholic beverage,4.77304185958e-05
+jamaican_rum,white_wine,100,alcoholic beverage,4.77304185958e-05
+jamaican_rum,cognac,96,alcoholic beverage,4.77304185958e-05
+jamaican_rum,apple_brandy,15,alcoholic beverage,4.77304185958e-05
+jamaican_rum,cider,54,alcoholic beverage,4.77304185958e-05
+jamaican_rum,rum,175,alcoholic beverage,4.77304185958e-05
+jamaican_rum,champagne_wine,78,alcoholic beverage,4.77304185958e-05
+jamaican_rum,blue_cheese,88,alcoholic beverage,4.77304185958e-05
+jamaican_rum,black_tea,89,alcoholic beverage,4.77304185958e-05
+jamaican_rum,beer,104,alcoholic beverage,4.77304185958e-05
+jamaican_rum,red_wine,88,alcoholic beverage,4.77304185958e-05
+jamaican_rum,port_wine,85,alcoholic beverage,4.77304185958e-05
+jamaican_rum,whiskey,79,alcoholic beverage,4.77304185958e-05
+jamaican_rum,parmesan_cheese,92,alcoholic beverage,4.77304185958e-05
+jamaican_rum,sherry,90,alcoholic beverage,4.77304185958e-05
+jamaican_rum,wine,78,alcoholic beverage,4.77304185958e-05
+rum,cabernet_sauvignon_wine,86,alcoholic beverage,0.0287337119947
+rum,white_wine,98,alcoholic beverage,0.0287337119947
+rum,cognac,94,alcoholic beverage,0.0287337119947
+rum,apple_brandy,15,alcoholic beverage,0.0287337119947
+rum,cider,54,alcoholic beverage,0.0287337119947
+rum,jamaican_rum,175,alcoholic beverage,0.0287337119947
+rum,red_wine,86,alcoholic beverage,0.0287337119947
+rum,port_wine,83,alcoholic beverage,0.0287337119947
+rum,whiskey,76,alcoholic beverage,0.0287337119947
+rum,beer,103,alcoholic beverage,0.0287337119947
+rum,parmesan_cheese,90,alcoholic beverage,0.0287337119947
+rum,black_tea,88,alcoholic beverage,0.0287337119947
+rum,sherry,87,alcoholic beverage,0.0287337119947
+rum,blue_cheese,88,alcoholic beverage,0.0287337119947
+red_wine,cabernet_sauvignon_wine,165,alcoholic beverage,0.0664884731039
+red_wine,white_wine,155,alcoholic beverage,0.0664884731039
+red_wine,pineapple,55,alcoholic beverage,0.0664884731039
+red_wine,cognac,94,alcoholic beverage,0.0664884731039
+red_wine,apple_brandy,17,alcoholic beverage,0.0664884731039
+red_wine,cider,52,alcoholic beverage,0.0664884731039
+red_wine,rum,86,alcoholic beverage,0.0664884731039
+red_wine,champagne_wine,128,alcoholic beverage,0.0664884731039
+red_wine,apple,86,alcoholic beverage,0.0664884731039
+red_wine,beer,106,alcoholic beverage,0.0664884731039
+red_wine,jamaican_rum,88,alcoholic beverage,0.0664884731039
+red_wine,whiskey,68,alcoholic beverage,0.0664884731039
+red_wine,port_wine,133,alcoholic beverage,0.0664884731039
+red_wine,sherry,138,alcoholic beverage,0.0664884731039
+red_wine,wine,128,alcoholic beverage,0.0664884731039
+cider,cabernet_sauvignon_wine,52,alcoholic beverage,0.0534580688273
+cider,white_wine,59,alcoholic beverage,0.0534580688273
+cider,cognac,55,alcoholic beverage,0.0534580688273
+cider,apple_brandy,15,alcoholic beverage,0.0534580688273
+cider,jamaican_rum,54,alcoholic beverage,0.0534580688273
+cider,rum,54,alcoholic beverage,0.0534580688273
+cider,red_wine,52,alcoholic beverage,0.0534580688273
+cider,port_wine,49,alcoholic beverage,0.0534580688273
+cider,beer,50,alcoholic beverage,0.0534580688273
+cider,sherry,52,alcoholic beverage,0.0534580688273
+cider,apple,59,alcoholic beverage,0.0534580688273
+port_wine,cabernet_sauvignon_wine,133,alcoholic beverage,0.00233879051119
+port_wine,white_wine,135,alcoholic beverage,0.00233879051119
+port_wine,cognac,90,alcoholic beverage,0.00233879051119
+port_wine,apple_brandy,15,alcoholic beverage,0.00233879051119
+port_wine,cider,49,alcoholic beverage,0.00233879051119
+port_wine,rum,83,alcoholic beverage,0.00233879051119
+port_wine,champagne_wine,128,alcoholic beverage,0.00233879051119
+port_wine,beer,90,alcoholic beverage,0.00233879051119
+port_wine,jamaican_rum,85,alcoholic beverage,0.00233879051119
+port_wine,red_wine,133,alcoholic beverage,0.00233879051119
+port_wine,sherry,131,alcoholic beverage,0.00233879051119
+port_wine,wine,128,alcoholic beverage,0.00233879051119
+white_wine,cabernet_sauvignon_wine,155,alcoholic beverage,0.103384086678
+white_wine,apple,105,alcoholic beverage,0.103384086678
+white_wine,port_wine,135,alcoholic beverage,0.103384086678
+white_wine,cocoa,86,alcoholic beverage,0.103384086678
+white_wine,black_tea,98,alcoholic beverage,0.103384086678
+white_wine,passion_fruit,74,alcoholic beverage,0.103384086678
+white_wine,whiskey,72,alcoholic beverage,0.103384086678
+white_wine,beer,118,alcoholic beverage,0.103384086678
+white_wine,cognac,107,alcoholic beverage,0.103384086678
+white_wine,sherry,139,alcoholic beverage,0.103384086678
+white_wine,red_wine,155,alcoholic beverage,0.103384086678
+white_wine,rum,98,alcoholic beverage,0.103384086678
+white_wine,muscat_grape,80,alcoholic beverage,0.103384086678
+white_wine,champagne_wine,128,alcoholic beverage,0.103384086678
+white_wine,brandy,19,alcoholic beverage,0.103384086678
+white_wine,apple_brandy,17,alcoholic beverage,0.103384086678
+white_wine,jamaican_rum,100,alcoholic beverage,0.103384086678
+white_wine,cider,59,alcoholic beverage,0.103384086678
+white_wine,parmesan_cheese,98,alcoholic beverage,0.103384086678
+white_wine,strawberry,99,alcoholic beverage,0.103384086678
+white_wine,pineapple,62,alcoholic beverage,0.103384086678
+white_wine,wine,128,alcoholic beverage,0.103384086678
+champagne_wine,cabernet_sauvignon_wine,128,alcoholic beverage,0.00472531144098
+champagne_wine,white_wine,128,alcoholic beverage,0.00472531144098
+champagne_wine,cognac,82,alcoholic beverage,0.00472531144098
+champagne_wine,jamaican_rum,78,alcoholic beverage,0.00472531144098
+champagne_wine,red_wine,128,alcoholic beverage,0.00472531144098
+champagne_wine,port_wine,128,alcoholic beverage,0.00472531144098
+champagne_wine,beer,86,alcoholic beverage,0.00472531144098
+champagne_wine,sherry,128,alcoholic beverage,0.00472531144098
+champagne_wine,wine,128,alcoholic beverage,0.00472531144098
+whiskey,cabernet_sauvignon_wine,68,alcoholic beverage,0.00706410195217
+whiskey,white_wine,72,alcoholic beverage,0.00706410195217
+whiskey,cognac,71,alcoholic beverage,0.00706410195217
+whiskey,rum,76,alcoholic beverage,0.00706410195217
+whiskey,beer,70,alcoholic beverage,0.00706410195217
+whiskey,jamaican_rum,79,alcoholic beverage,0.00706410195217
+whiskey,parmesan_cheese,67,alcoholic beverage,0.00706410195217
+whiskey,red_wine,68,alcoholic beverage,0.00706410195217
+whiskey,sherry,69,alcoholic beverage,0.00706410195217
+beer,cabernet_sauvignon_wine,107,alcoholic beverage,0.0144623168345
+beer,white_wine,118,alcoholic beverage,0.0144623168345
+beer,milk,78,alcoholic beverage,0.0144623168345
+beer,katsuobushi,23,alcoholic beverage,0.0144623168345
+beer,raw_beef,102,alcoholic beverage,0.0144623168345
+beer,cognac,99,alcoholic beverage,0.0144623168345
+beer,coffee,101,alcoholic beverage,0.0144623168345
+beer,cider,50,alcoholic beverage,0.0144623168345
+beer,rum,103,alcoholic beverage,0.0144623168345
+beer,champagne_wine,86,alcoholic beverage,0.0144623168345
+beer,swiss_cheese,95,alcoholic beverage,0.0144623168345
+beer,blue_cheese,102,alcoholic beverage,0.0144623168345
+beer,cheddar_cheese,97,alcoholic beverage,0.0144623168345
+beer,apple,91,alcoholic beverage,0.0144623168345
+beer,cocoa,94,alcoholic beverage,0.0144623168345
+beer,beef,102,alcoholic beverage,0.0144623168345
+beer,port_wine,90,alcoholic beverage,0.0144623168345
+beer,hop,62,alcoholic beverage,0.0144623168345
+beer,sherry,103,alcoholic beverage,0.0144623168345
+beer,roasted_beef,106,alcoholic beverage,0.0144623168345
+beer,red_wine,106,alcoholic beverage,0.0144623168345
+beer,gruyere_cheese,101,alcoholic beverage,0.0144623168345
+beer,jamaican_rum,104,alcoholic beverage,0.0144623168345
+beer,malt,60,alcoholic beverage,0.0144623168345
+beer,whiskey,70,alcoholic beverage,0.0144623168345
+beer,pork_liver,14,alcoholic beverage,0.0144623168345
+beer,wine,86,alcoholic beverage,0.0144623168345
+cognac,cabernet_sauvignon_wine,94,alcoholic beverage,0.00315020762732
+cognac,white_wine,107,alcoholic beverage,0.00315020762732
+cognac,apple,86,alcoholic beverage,0.00315020762732
+cognac,jamaican_rum,96,alcoholic beverage,0.00315020762732
+cognac,rum,94,alcoholic beverage,0.00315020762732
+cognac,cider,55,alcoholic beverage,0.00315020762732
+cognac,red_wine,94,alcoholic beverage,0.00315020762732
+cognac,grape_brandy,6,alcoholic beverage,0.00315020762732
+cognac,port_wine,90,alcoholic beverage,0.00315020762732
+cognac,champagne_wine,82,alcoholic beverage,0.00315020762732
+cognac,whiskey,71,alcoholic beverage,0.00315020762732
+cognac,beer,99,alcoholic beverage,0.00315020762732
+cognac,sherry,90,alcoholic beverage,0.00315020762732
+cognac,apple_brandy,16,alcoholic beverage,0.00315020762732
+cognac,wine,82,alcoholic beverage,0.00315020762732
+pineapple,cabernet_sauvignon_wine,55,fruit,0.0771323564508
+pineapple,white_wine,62,fruit,0.0771323564508
+pineapple,strawberry,67,fruit,0.0771323564508
+pineapple,red_wine,55,fruit,0.0771323564508
+pineapple,apple,64,fruit,0.0771323564508
+sherry,cabernet_sauvignon_wine,138,alcoholic beverage,0.0300701637153
+sherry,white_wine,139,alcoholic beverage,0.0300701637153
+sherry,cognac,90,alcoholic beverage,0.0300701637153
+sherry,apple_brandy,15,alcoholic beverage,0.0300701637153
+sherry,cider,52,alcoholic beverage,0.0300701637153
+sherry,rum,87,alcoholic beverage,0.0300701637153
+sherry,champagne_wine,128,alcoholic beverage,0.0300701637153
+sherry,beer,103,alcoholic beverage,0.0300701637153
+sherry,jamaican_rum,90,alcoholic beverage,0.0300701637153
+sherry,whiskey,69,alcoholic beverage,0.0300701637153
+sherry,port_wine,131,alcoholic beverage,0.0300701637153
+sherry,red_wine,138,alcoholic beverage,0.0300701637153
+sherry,wine,128,alcoholic beverage,0.0300701637153
+apple_brandy,cabernet_sauvignon_wine,17,alcoholic beverage,0.00176602548804
+apple_brandy,white_wine,17,alcoholic beverage,0.00176602548804
+apple_brandy,cognac,16,alcoholic beverage,0.00176602548804
+apple_brandy,apple,14,alcoholic beverage,0.00176602548804
+apple_brandy,rum,15,alcoholic beverage,0.00176602548804
+apple_brandy,red_wine,17,alcoholic beverage,0.00176602548804
+apple_brandy,cider,15,alcoholic beverage,0.00176602548804
+apple_brandy,port_wine,15,alcoholic beverage,0.00176602548804
+apple_brandy,sherry,15,alcoholic beverage,0.00176602548804
+apple_brandy,jamaican_rum,15,alcoholic beverage,0.00176602548804
+wine,cabernet_sauvignon_wine,128,alcoholic beverage,0.0418595771085
+wine,white_wine,128,alcoholic beverage,0.0418595771085
+wine,cognac,82,alcoholic beverage,0.0418595771085
+wine,champagne_wine,128,alcoholic beverage,0.0418595771085
+wine,beer,86,alcoholic beverage,0.0418595771085
+wine,jamaican_rum,78,alcoholic beverage,0.0418595771085
+wine,port_wine,128,alcoholic beverage,0.0418595771085
+wine,sherry,128,alcoholic beverage,0.0418595771085
+wine,red_wine,128,alcoholic beverage,0.0418595771085
+orange_juice,orange,54,fruit,0.0811417116128
+orange_juice,apple,30,fruit,0.0811417116128
+rye_bread,wheat_bread,62,cereal/crop,0.00434346809222
+rye_bread,bread,51,cereal/crop,0.00434346809222
+wheat_bread,rye_bread,62,cereal/crop,0.00396162474345
+wheat_bread,bread,51,cereal/crop,0.00396162474345
+bread,rye_bread,51,cereal/crop,0.217316595867
+bread,white_bread,51,cereal/crop,0.217316595867
+bread,wheat_bread,51,cereal/crop,0.217316595867
+cocoa,white_wine,86,plant derivative,0.229153739678
+cocoa,katsuobushi,23,plant derivative,0.229153739678
+cocoa,coffee,95,plant derivative,0.229153739678
+cocoa,black_tea,85,plant derivative,0.229153739678
+cocoa,beer,94,plant derivative,0.229153739678
+black_tea,white_wine,98,plant derivative,0.00181375590664
+black_tea,katsuobushi,26,plant derivative,0.00181375590664
+black_tea,geranium,11,plant derivative,0.00181375590664
+black_tea,coffee,102,plant derivative,0.00181375590664
+black_tea,thyme,17,plant derivative,0.00181375590664
+black_tea,citrus_peel,33,plant derivative,0.00181375590664
+black_tea,vanilla,45,plant derivative,0.00181375590664
+black_tea,tea,171,plant derivative,0.00181375590664
+black_tea,guava,82,plant derivative,0.00181375590664
+black_tea,peppermint,33,plant derivative,0.00181375590664
+black_tea,rum,88,plant derivative,0.00181375590664
+black_tea,lemon_peel,8,plant derivative,0.00181375590664
+black_tea,jasmine_tea,172,plant derivative,0.00181375590664
+black_tea,jasmine,10,plant derivative,0.00181375590664
+black_tea,raspberry,81,plant derivative,0.00181375590664
+black_tea,lingonberry,11,plant derivative,0.00181375590664
+black_tea,bell_pepper,41,plant derivative,0.00181375590664
+black_tea,peppermint_oil,21,plant derivative,0.00181375590664
+black_tea,cocoa,85,plant derivative,0.00181375590664
+black_tea,soybean,96,plant derivative,0.00181375590664
+black_tea,passion_fruit,72,plant derivative,0.00181375590664
+black_tea,mint,24,plant derivative,0.00181375590664
+black_tea,strawberry_jam,17,plant derivative,0.00181375590664
+black_tea,okra,18,plant derivative,0.00181375590664
+black_tea,japanese_plum,7,plant derivative,0.00181375590664
+black_tea,basil,11,plant derivative,0.00181375590664
+black_tea,green_tea,177,plant derivative,0.00181375590664
+black_tea,spearmint,23,plant derivative,0.00181375590664
+black_tea,tomato,84,plant derivative,0.00181375590664
+black_tea,jamaican_rum,89,plant derivative,0.00181375590664
+black_tea,mango,79,plant derivative,0.00181375590664
+passion_fruit,white_wine,74,fruit,0.000954608371915
+passion_fruit,strawberry,76,fruit,0.000954608371915
+passion_fruit,quince,35,fruit,0.000954608371915
+passion_fruit,black_tea,72,fruit,0.000954608371915
+muscat_grape,white_wine,80,fruit,4.77304185958e-05
+muscat_grape,grape,125,fruit,4.77304185958e-05
+muscat_grape,strawberry,85,fruit,4.77304185958e-05
+muscat_grape,concord_grape,125,fruit,4.77304185958e-05
+muscat_grape,apple,81,fruit,4.77304185958e-05
+brandy,white_wine,19,alcoholic beverage,0.0188535153453
+parmesan_cheese,white_wine,98,dairy,0.151162235693
+parmesan_cheese,milk,79,dairy,0.151162235693
+parmesan_cheese,camembert_cheese,128,dairy,0.151162235693
+parmesan_cheese,rum,90,dairy,0.151162235693
+parmesan_cheese,swiss_cheese,129,dairy,0.151162235693
+parmesan_cheese,blue_cheese,137,dairy,0.151162235693
+parmesan_cheese,cheddar_cheese,134,dairy,0.151162235693
+parmesan_cheese,cheese,127,dairy,0.151162235693
+parmesan_cheese,roquefort_cheese,127,dairy,0.151162235693
+parmesan_cheese,provolone_cheese,129,dairy,0.151162235693
+parmesan_cheese,romano_cheese,131,dairy,0.151162235693
+parmesan_cheese,cream_cheese,130,dairy,0.151162235693
+parmesan_cheese,jamaican_rum,92,dairy,0.151162235693
+parmesan_cheese,gruyere_cheese,134,dairy,0.151162235693
+parmesan_cheese,cottage_cheese,130,dairy,0.151162235693
+parmesan_cheese,goat_cheese,128,dairy,0.151162235693
+parmesan_cheese,mozzarella_cheese,127,dairy,0.151162235693
+parmesan_cheese,sheep_cheese,127,dairy,0.151162235693
+parmesan_cheese,feta_cheese,127,dairy,0.151162235693
+parmesan_cheese,emmental_cheese,127,dairy,0.151162235693
+parmesan_cheese,whiskey,67,dairy,0.151162235693
+parmesan_cheese,munster_cheese,127,dairy,0.151162235693
+strawberry,white_wine,99,fruit,0.0514533912462
+strawberry,pineapple,67,fruit,0.0514533912462
+strawberry,grape,84,fruit,0.0514533912462
+strawberry,huckleberry,52,fruit,0.0514533912462
+strawberry,melon,67,fruit,0.0514533912462
+strawberry,juniper_berry,52,fruit,0.0514533912462
+strawberry,blackberry,72,fruit,0.0514533912462
+strawberry,guava,83,fruit,0.0514533912462
+strawberry,black_currant,62,fruit,0.0514533912462
+strawberry,apple,114,fruit,0.0514533912462
+strawberry,honey,40,fruit,0.0514533912462
+strawberry,elderberry,59,fruit,0.0514533912462
+strawberry,passion_fruit,76,fruit,0.0514533912462
+strawberry,nectarine,40,fruit,0.0514533912462
+strawberry,bitter_orange,25,fruit,0.0514533912462
+strawberry,orange,69,fruit,0.0514533912462
+strawberry,quince,35,fruit,0.0514533912462
+strawberry,bartlett_pear,38,fruit,0.0514533912462
+strawberry,banana,69,fruit,0.0514533912462
+strawberry,kiwi,39,fruit,0.0514533912462
+strawberry,papaya,71,fruit,0.0514533912462
+strawberry,pear,38,fruit,0.0514533912462
+strawberry,muscat_grape,85,fruit,0.0514533912462
+strawberry,tangerine,41,fruit,0.0514533912462
+strawberry,olive,47,fruit,0.0514533912462
+strawberry,raspberry,89,fruit,0.0514533912462
+strawberry,concord_grape,87,fruit,0.0514533912462
+strawberry,apricot,70,fruit,0.0514533912462
+strawberry,plum,63,fruit,0.0514533912462
+strawberry,blueberry,58,fruit,0.0514533912462
+strawberry,black_raspberry,52,fruit,0.0514533912462
+strawberry,mango,82,fruit,0.0514533912462
+strawberry,berry,52,fruit,0.0514533912462
+strawberry,cranberry,78,fruit,0.0514533912462
+marjoram,ginger,18,herb,0.0252016610186
+porcini,matsutake,117,vegetable,0.00505942437115
+porcini,enokidake,117,vegetable,0.00505942437115
+porcini,shiitake,117,vegetable,0.00505942437115
+porcini,mushroom,117,vegetable,0.00505942437115
+matsutake,porcini,117,vegetable,0.00267290344136
+matsutake,shiitake,118,vegetable,0.00267290344136
+matsutake,enokidake,117,vegetable,0.00267290344136
+matsutake,mushroom,117,vegetable,0.00267290344136
+enokidake,porcini,117,vegetable,0.00505942437115
+enokidake,matsutake,117,vegetable,0.00505942437115
+enokidake,shiitake,117,vegetable,0.00505942437115
+enokidake,mushroom,117,vegetable,0.00505942437115
+shiitake,porcini,117,vegetable,0.0243902439024
+shiitake,matsutake,118,vegetable,0.0243902439024
+shiitake,enokidake,117,vegetable,0.0243902439024
+shiitake,mushroom,117,vegetable,0.0243902439024
+mushroom,porcini,117,vegetable,0.158321798482
+mushroom,matsutake,117,vegetable,0.158321798482
+mushroom,shiitake,117,vegetable,0.158321798482
+mushroom,enokidake,117,vegetable,0.158321798482
+milk,beer,78,dairy,0.615483747792
+milk,cheddar_cheese,76,dairy,0.615483747792
+milk,roasted_beef,77,dairy,0.615483747792
+milk,parmesan_cheese,79,dairy,0.615483747792
+milk,blue_cheese,76,dairy,0.615483747792
+cheddar_cheese,milk,76,dairy,0.144575437927
+cheddar_cheese,camembert_cheese,130,dairy,0.144575437927
+cheddar_cheese,swiss_cheese,136,dairy,0.144575437927
+cheddar_cheese,blue_cheese,142,dairy,0.144575437927
+cheddar_cheese,provolone_cheese,130,dairy,0.144575437927
+cheddar_cheese,cheese,127,dairy,0.144575437927
+cheddar_cheese,feta_cheese,129,dairy,0.144575437927
+cheddar_cheese,cream,28,dairy,0.144575437927
+cheddar_cheese,romano_cheese,129,dairy,0.144575437927
+cheddar_cheese,roquefort_cheese,127,dairy,0.144575437927
+cheddar_cheese,emmental_cheese,127,dairy,0.144575437927
+cheddar_cheese,buttermilk,12,dairy,0.144575437927
+cheddar_cheese,parmesan_cheese,134,dairy,0.144575437927
+cheddar_cheese,cottage_cheese,131,dairy,0.144575437927
+cheddar_cheese,goat_cheese,128,dairy,0.144575437927
+cheddar_cheese,beer,97,dairy,0.144575437927
+cheddar_cheese,cream_cheese,130,dairy,0.144575437927
+cheddar_cheese,mozzarella_cheese,127,dairy,0.144575437927
+cheddar_cheese,munster_cheese,127,dairy,0.144575437927
+cheddar_cheese,sheep_cheese,127,dairy,0.144575437927
+cheddar_cheese,gruyere_cheese,128,dairy,0.144575437927
+blue_cheese,milk,76,dairy,0.0188535153453
+blue_cheese,camembert_cheese,132,dairy,0.0188535153453
+blue_cheese,rum,88,dairy,0.0188535153453
+blue_cheese,swiss_cheese,134,dairy,0.0188535153453
+blue_cheese,cheese,127,dairy,0.0188535153453
+blue_cheese,roquefort_cheese,127,dairy,0.0188535153453
+blue_cheese,cream,27,dairy,0.0188535153453
+blue_cheese,provolone_cheese,133,dairy,0.0188535153453
+blue_cheese,romano_cheese,130,dairy,0.0188535153453
+blue_cheese,cottage_cheese,131,dairy,0.0188535153453
+blue_cheese,buttermilk,12,dairy,0.0188535153453
+blue_cheese,beer,102,dairy,0.0188535153453
+blue_cheese,goat_cheese,128,dairy,0.0188535153453
+blue_cheese,cream_cheese,130,dairy,0.0188535153453
+blue_cheese,mozzarella_cheese,127,dairy,0.0188535153453
+blue_cheese,sheep_cheese,127,dairy,0.0188535153453
+blue_cheese,gruyere_cheese,131,dairy,0.0188535153453
+blue_cheese,jamaican_rum,88,dairy,0.0188535153453
+blue_cheese,feta_cheese,129,dairy,0.0188535153453
+blue_cheese,emmental_cheese,127,dairy,0.0188535153453
+blue_cheese,parmesan_cheese,137,dairy,0.0188535153453
+blue_cheese,munster_cheese,127,dairy,0.0188535153453
+blue_cheese,cheddar_cheese,142,dairy,0.0188535153453
+katsuobushi,cocoa,23,fish/seafood,0.00233879051119
+katsuobushi,coffee,32,fish/seafood,0.00233879051119
+katsuobushi,beer,23,fish/seafood,0.00233879051119
+katsuobushi,black_tea,26,fish/seafood,0.00233879051119
+coffee,katsuobushi,32,plant derivative,0.0341749797146
+coffee,raw_beef,102,plant derivative,0.0341749797146
+coffee,beef,102,plant derivative,0.0341749797146
+coffee,roasted_peanut,86,plant derivative,0.0341749797146
+coffee,jasmine_tea,86,plant derivative,0.0341749797146
+coffee,tea,86,plant derivative,0.0341749797146
+coffee,green_tea,93,plant derivative,0.0341749797146
+coffee,cocoa,95,plant derivative,0.0341749797146
+coffee,okra,21,plant derivative,0.0341749797146
+coffee,beer,101,plant derivative,0.0341749797146
+coffee,wood,5,plant derivative,0.0341749797146
+coffee,peanut_butter,86,plant derivative,0.0341749797146
+coffee,black_tea,102,plant derivative,0.0341749797146
+coffee,popcorn,25,plant derivative,0.0341749797146
+coffee,squid,17,plant derivative,0.0341749797146
+coffee,roasted_beef,105,plant derivative,0.0341749797146
+coffee,pork_liver,21,plant derivative,0.0341749797146
+lamb,raw_beef,58,meat,0.0225287575772
+lamb,beef,58,meat,0.0225287575772
+lamb,roasted_beef,58,meat,0.0225287575772
+roasted_peanut,raw_beef,99,nut/seed/pulse,0.0078755190683
+roasted_peanut,peanut,97,nut/seed/pulse,0.0078755190683
+roasted_peanut,coffee,86,nut/seed/pulse,0.0078755190683
+roasted_peanut,peanut_butter,144,nut/seed/pulse,0.0078755190683
+roasted_peanut,beef,99,nut/seed/pulse,0.0078755190683
+roasted_peanut,potato_chip,23,nut/seed/pulse,0.0078755190683
+roasted_peanut,soybean,88,nut/seed/pulse,0.0078755190683
+roasted_peanut,popcorn,23,nut/seed/pulse,0.0078755190683
+roasted_peanut,roasted_beef,105,nut/seed/pulse,0.0078755190683
+roasted_peanut,pork_liver,15,nut/seed/pulse,0.0078755190683
+caviar,raw_beef,18,fish/seafood,0.00124099088349
+caviar,smoked_salmon,18,fish/seafood,0.00124099088349
+caviar,beef,18,fish/seafood,0.00124099088349
+caviar,sturgeon_caviar,21,fish/seafood,0.00124099088349
+caviar,salmon,18,fish/seafood,0.00124099088349
+caviar,tuna,18,fish/seafood,0.00124099088349
+caviar,roasted_beef,18,fish/seafood,0.00124099088349
+peanut,raw_beef,72,nut/seed/pulse,0.0216218796239
+peanut,beef,72,nut/seed/pulse,0.0216218796239
+peanut,peanut_butter,97,nut/seed/pulse,0.0216218796239
+peanut,roasted_peanut,97,nut/seed/pulse,0.0216218796239
+peanut,roasted_beef,74,nut/seed/pulse,0.0216218796239
+onion,raw_beef,30,vegetable,0.8606271777
+onion,beef,30,vegetable,0.8606271777
+onion,shallot,12,vegetable,0.8606271777
+onion,garlic,16,vegetable,0.8606271777
+onion,chive,17,vegetable,0.8606271777
+onion,roasted_beef,32,vegetable,0.8606271777
+baked_potato,raw_beef,78,vegetable,0.000429573767362
+baked_potato,beef,78,vegetable,0.000429573767362
+baked_potato,roasted_beef,79,vegetable,0.000429573767362
+baked_potato,potato,97,vegetable,0.000429573767362
+peanut_butter,raw_beef,99,plant derivative,0.0474917665028
+peanut_butter,peanut,97,plant derivative,0.0474917665028
+peanut_butter,coffee,86,plant derivative,0.0474917665028
+peanut_butter,beef,99,plant derivative,0.0474917665028
+peanut_butter,roasted_peanut,144,plant derivative,0.0474917665028
+peanut_butter,potato_chip,23,plant derivative,0.0474917665028
+peanut_butter,pork_liver,15,plant derivative,0.0474917665028
+peanut_butter,soybean,88,plant derivative,0.0474917665028
+peanut_butter,popcorn,23,plant derivative,0.0474917665028
+peanut_butter,roasted_beef,105,plant derivative,0.0474917665028
+soybean,raw_beef,96,vegetable,0.049353252828
+soybean,mung_bean,86,vegetable,0.049353252828
+soybean,lima_bean,86,vegetable,0.049353252828
+soybean,bean,86,vegetable,0.049353252828
+soybean,peanut_butter,88,vegetable,0.049353252828
+soybean,kidney_bean,86,vegetable,0.049353252828
+soybean,red_bean,86,vegetable,0.049353252828
+soybean,roasted_peanut,88,vegetable,0.049353252828
+soybean,black_bean,86,vegetable,0.049353252828
+soybean,beef,96,vegetable,0.049353252828
+soybean,okra,18,vegetable,0.049353252828
+soybean,black_tea,96,vegetable,0.049353252828
+soybean,red_kidney_bean,86,vegetable,0.049353252828
+soybean,roasted_beef,100,vegetable,0.049353252828
+pork_liver,raw_beef,16,meat,0.000238652092979
+pork_liver,coffee,21,meat,0.000238652092979
+pork_liver,peanut_butter,15,meat,0.000238652092979
+pork_liver,roasted_peanut,15,meat,0.000238652092979
+pork_liver,beef,16,meat,0.000238652092979
+pork_liver,beer,14,meat,0.000238652092979
+pork_liver,roasted_beef,16,meat,0.000238652092979
+grape,strawberry,84,fruit,0.0164669944155
+grape,muscat_grape,125,fruit,0.0164669944155
+grape,concord_grape,125,fruit,0.0164669944155
+grape,apple,79,fruit,0.0164669944155
+concord_grape,grape,125,fruit,0.000572765023149
+concord_grape,strawberry,87,fruit,0.000572765023149
+concord_grape,apple,80,fruit,0.000572765023149
+concord_grape,muscat_grape,125,fruit,0.000572765023149
+huckleberry,juniper_berry,52,fruit,0.000477304185958
+huckleberry,black_currant,52,fruit,0.000477304185958
+huckleberry,strawberry,52,fruit,0.000477304185958
+huckleberry,elderberry,52,fruit,0.000477304185958
+huckleberry,black_raspberry,52,fruit,0.000477304185958
+huckleberry,blackberry,52,fruit,0.000477304185958
+huckleberry,cranberry,53,fruit,0.000477304185958
+huckleberry,raspberry,52,fruit,0.000477304185958
+huckleberry,blueberry,53,fruit,0.000477304185958
+huckleberry,berry,52,fruit,0.000477304185958
+juniper_berry,huckleberry,52,fruit,0.00157510381366
+juniper_berry,black_currant,52,fruit,0.00157510381366
+juniper_berry,black_raspberry,52,fruit,0.00157510381366
+juniper_berry,elderberry,52,fruit,0.00157510381366
+juniper_berry,strawberry,52,fruit,0.00157510381366
+juniper_berry,blackberry,53,fruit,0.00157510381366
+juniper_berry,cranberry,54,fruit,0.00157510381366
+juniper_berry,raspberry,52,fruit,0.00157510381366
+juniper_berry,blueberry,52,fruit,0.00157510381366
+juniper_berry,berry,52,fruit,0.00157510381366
+black_currant,huckleberry,52,fruit,0.000525034604553
+black_currant,juniper_berry,52,fruit,0.000525034604553
+black_currant,blackberry,61,fruit,0.000525034604553
+black_currant,strawberry,62,fruit,0.000525034604553
+black_currant,black_raspberry,52,fruit,0.000525034604553
+black_currant,blueberry,55,fruit,0.000525034604553
+black_currant,berry,52,fruit,0.000525034604553
+elderberry,huckleberry,52,fruit,0.000238652092979
+elderberry,juniper_berry,52,fruit,0.000238652092979
+elderberry,strawberry,59,fruit,0.000238652092979
+elderberry,black_raspberry,52,fruit,0.000238652092979
+elderberry,berry,52,fruit,0.000238652092979
+elderberry,cranberry,58,fruit,0.000238652092979
+elderberry,raspberry,58,fruit,0.000238652092979
+elderberry,blueberry,54,fruit,0.000238652092979
+black_raspberry,huckleberry,52,fruit,0.000381843348766
+black_raspberry,juniper_berry,52,fruit,0.000381843348766
+black_raspberry,blackberry,52,fruit,0.000381843348766
+black_raspberry,strawberry,52,fruit,0.000381843348766
+black_raspberry,elderberry,52,fruit,0.000381843348766
+black_raspberry,raspberry,52,fruit,0.000381843348766
+black_raspberry,black_currant,52,fruit,0.000381843348766
+black_raspberry,cranberry,52,fruit,0.000381843348766
+black_raspberry,blueberry,52,fruit,0.000381843348766
+black_raspberry,berry,52,fruit,0.000381843348766
+blackberry,huckleberry,52,fruit,0.00806644074269
+blackberry,juniper_berry,53,fruit,0.00806644074269
+blackberry,black_currant,61,fruit,0.00806644074269
+blackberry,strawberry,72,fruit,0.00806644074269
+blackberry,black_raspberry,52,fruit,0.00806644074269
+blackberry,berry,52,fruit,0.00806644074269
+blackberry,raspberry,72,fruit,0.00806644074269
+blackberry,blueberry,57,fruit,0.00806644074269
+cranberry,huckleberry,53,fruit,0.0437210634337
+cranberry,juniper_berry,54,fruit,0.0437210634337
+cranberry,strawberry,78,fruit,0.0437210634337
+cranberry,elderberry,58,fruit,0.0437210634337
+cranberry,black_raspberry,52,fruit,0.0437210634337
+cranberry,blueberry,58,fruit,0.0437210634337
+cranberry,berry,52,fruit,0.0437210634337
+raspberry,huckleberry,52,fruit,0.0374206481791
+raspberry,juniper_berry,52,fruit,0.0374206481791
+raspberry,blackberry,72,fruit,0.0374206481791
+raspberry,strawberry,89,fruit,0.0374206481791
+raspberry,elderberry,58,fruit,0.0374206481791
+raspberry,black_raspberry,52,fruit,0.0374206481791
+raspberry,berry,52,fruit,0.0374206481791
+raspberry,black_tea,81,fruit,0.0374206481791
+raspberry,blueberry,55,fruit,0.0374206481791
+blueberry,huckleberry,53,fruit,0.022194644647
+blueberry,juniper_berry,52,fruit,0.022194644647
+blueberry,blackberry,57,fruit,0.022194644647
+blueberry,strawberry,58,fruit,0.022194644647
+blueberry,elderberry,54,fruit,0.022194644647
+blueberry,raspberry,55,fruit,0.022194644647
+blueberry,black_raspberry,52,fruit,0.022194644647
+blueberry,black_currant,55,fruit,0.022194644647
+blueberry,cranberry,58,fruit,0.022194644647
+blueberry,berry,52,fruit,0.022194644647
+berry,huckleberry,52,fruit,0.00868693618443
+berry,juniper_berry,52,fruit,0.00868693618443
+berry,blackberry,52,fruit,0.00868693618443
+berry,strawberry,52,fruit,0.00868693618443
+berry,elderberry,52,fruit,0.00868693618443
+berry,raspberry,52,fruit,0.00868693618443
+berry,black_raspberry,52,fruit,0.00868693618443
+berry,blueberry,52,fruit,0.00868693618443
+berry,black_currant,52,fruit,0.00868693618443
+berry,cranberry,52,fruit,0.00868693618443
+camembert_cheese,provolone_cheese,128,dairy,0.000572765023149
+camembert_cheese,cheese,127,dairy,0.000572765023149
+camembert_cheese,sheep_cheese,127,dairy,0.000572765023149
+camembert_cheese,romano_cheese,128,dairy,0.000572765023149
+camembert_cheese,roquefort_cheese,127,dairy,0.000572765023149
+camembert_cheese,emmental_cheese,127,dairy,0.000572765023149
+camembert_cheese,feta_cheese,129,dairy,0.000572765023149
+camembert_cheese,parmesan_cheese,128,dairy,0.000572765023149
+camembert_cheese,cottage_cheese,127,dairy,0.000572765023149
+camembert_cheese,mozzarella_cheese,127,dairy,0.000572765023149
+camembert_cheese,swiss_cheese,130,dairy,0.000572765023149
+camembert_cheese,cream_cheese,127,dairy,0.000572765023149
+camembert_cheese,blue_cheese,132,dairy,0.000572765023149
+camembert_cheese,goat_cheese,127,dairy,0.000572765023149
+camembert_cheese,munster_cheese,127,dairy,0.000572765023149
+camembert_cheese,cheddar_cheese,130,dairy,0.000572765023149
+camembert_cheese,gruyere_cheese,129,dairy,0.000572765023149
+provolone_cheese,camembert_cheese,128,dairy,0.00797097990549
+provolone_cheese,swiss_cheese,127,dairy,0.00797097990549
+provolone_cheese,blue_cheese,133,dairy,0.00797097990549
+provolone_cheese,cheddar_cheese,130,dairy,0.00797097990549
+provolone_cheese,cheese,127,dairy,0.00797097990549
+provolone_cheese,roquefort_cheese,127,dairy,0.00797097990549
+provolone_cheese,sheep_cheese,128,dairy,0.00797097990549
+provolone_cheese,romano_cheese,130,dairy,0.00797097990549
+provolone_cheese,emmental_cheese,127,dairy,0.00797097990549
+provolone_cheese,feta_cheese,127,dairy,0.00797097990549
+provolone_cheese,parmesan_cheese,129,dairy,0.00797097990549
+provolone_cheese,cottage_cheese,128,dairy,0.00797097990549
+provolone_cheese,goat_cheese,129,dairy,0.00797097990549
+provolone_cheese,cream_cheese,127,dairy,0.00797097990549
+provolone_cheese,mozzarella_cheese,127,dairy,0.00797097990549
+provolone_cheese,munster_cheese,127,dairy,0.00797097990549
+provolone_cheese,gruyere_cheese,127,dairy,0.00797097990549
+cheese,camembert_cheese,127,dairy,0.156651233831
+cheese,swiss_cheese,127,dairy,0.156651233831
+cheese,blue_cheese,127,dairy,0.156651233831
+cheese,cheddar_cheese,127,dairy,0.156651233831
+cheese,provolone_cheese,127,dairy,0.156651233831
+cheese,gruyere_cheese,127,dairy,0.156651233831
+cheese,romano_cheese,127,dairy,0.156651233831
+cheese,roquefort_cheese,127,dairy,0.156651233831
+cheese,emmental_cheese,127,dairy,0.156651233831
+cheese,parmesan_cheese,127,dairy,0.156651233831
+cheese,cottage_cheese,127,dairy,0.156651233831
+cheese,goat_cheese,127,dairy,0.156651233831
+cheese,cream_cheese,127,dairy,0.156651233831
+cheese,mozzarella_cheese,127,dairy,0.156651233831
+cheese,munster_cheese,127,dairy,0.156651233831
+cheese,sheep_cheese,127,dairy,0.156651233831
+cheese,feta_cheese,127,dairy,0.156651233831
+sheep_cheese,camembert_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,swiss_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,blue_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,cheddar_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,cheese,127,dairy,9.54608371915e-05
+sheep_cheese,roquefort_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,provolone_cheese,128,dairy,9.54608371915e-05
+sheep_cheese,romano_cheese,129,dairy,9.54608371915e-05
+sheep_cheese,cream_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,gruyere_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,parmesan_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,cottage_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,goat_cheese,130,dairy,9.54608371915e-05
+sheep_cheese,feta_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,emmental_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,mozzarella_cheese,127,dairy,9.54608371915e-05
+sheep_cheese,munster_cheese,127,dairy,9.54608371915e-05
+romano_cheese,camembert_cheese,128,dairy,0.0131258651138
+romano_cheese,swiss_cheese,128,dairy,0.0131258651138
+romano_cheese,blue_cheese,130,dairy,0.0131258651138
+romano_cheese,cheddar_cheese,129,dairy,0.0131258651138
+romano_cheese,cheese,127,dairy,0.0131258651138
+romano_cheese,roquefort_cheese,127,dairy,0.0131258651138
+romano_cheese,provolone_cheese,130,dairy,0.0131258651138
+romano_cheese,sheep_cheese,129,dairy,0.0131258651138
+romano_cheese,gruyere_cheese,128,dairy,0.0131258651138
+romano_cheese,emmental_cheese,127,dairy,0.0131258651138
+romano_cheese,parmesan_cheese,131,dairy,0.0131258651138
+romano_cheese,cottage_cheese,127,dairy,0.0131258651138
+romano_cheese,goat_cheese,130,dairy,0.0131258651138
+romano_cheese,cream_cheese,127,dairy,0.0131258651138
+romano_cheese,mozzarella_cheese,127,dairy,0.0131258651138
+romano_cheese,munster_cheese,127,dairy,0.0131258651138
+romano_cheese,feta_cheese,128,dairy,0.0131258651138
+roquefort_cheese,camembert_cheese,127,dairy,0.0010977996277
+roquefort_cheese,swiss_cheese,127,dairy,0.0010977996277
+roquefort_cheese,blue_cheese,127,dairy,0.0010977996277
+roquefort_cheese,cheddar_cheese,127,dairy,0.0010977996277
+roquefort_cheese,cheese,127,dairy,0.0010977996277
+roquefort_cheese,provolone_cheese,127,dairy,0.0010977996277
+roquefort_cheese,sheep_cheese,127,dairy,0.0010977996277
+roquefort_cheese,romano_cheese,127,dairy,0.0010977996277
+roquefort_cheese,feta_cheese,127,dairy,0.0010977996277
+roquefort_cheese,emmental_cheese,127,dairy,0.0010977996277
+roquefort_cheese,parmesan_cheese,127,dairy,0.0010977996277
+roquefort_cheese,cottage_cheese,127,dairy,0.0010977996277
+roquefort_cheese,mozzarella_cheese,127,dairy,0.0010977996277
+roquefort_cheese,cream_cheese,127,dairy,0.0010977996277
+roquefort_cheese,goat_cheese,127,dairy,0.0010977996277
+roquefort_cheese,munster_cheese,127,dairy,0.0010977996277
+roquefort_cheese,gruyere_cheese,127,dairy,0.0010977996277
+emmental_cheese,camembert_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,swiss_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,blue_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,cheddar_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,cheese,127,dairy,4.77304185958e-05
+emmental_cheese,roquefort_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,provolone_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,romano_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,cream_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,gruyere_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,parmesan_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,cottage_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,goat_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,sheep_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,mozzarella_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,feta_cheese,127,dairy,4.77304185958e-05
+emmental_cheese,munster_cheese,127,dairy,4.77304185958e-05
+feta_cheese,camembert_cheese,129,dairy,0.029640589948
+feta_cheese,swiss_cheese,129,dairy,0.029640589948
+feta_cheese,blue_cheese,129,dairy,0.029640589948
+feta_cheese,cheddar_cheese,129,dairy,0.029640589948
+feta_cheese,cheese,127,dairy,0.029640589948
+feta_cheese,roquefort_cheese,127,dairy,0.029640589948
+feta_cheese,provolone_cheese,127,dairy,0.029640589948
+feta_cheese,romano_cheese,128,dairy,0.029640589948
+feta_cheese,cream_cheese,127,dairy,0.029640589948
+feta_cheese,gruyere_cheese,128,dairy,0.029640589948
+feta_cheese,parmesan_cheese,127,dairy,0.029640589948
+feta_cheese,cottage_cheese,127,dairy,0.029640589948
+feta_cheese,goat_cheese,127,dairy,0.029640589948
+feta_cheese,sheep_cheese,127,dairy,0.029640589948
+feta_cheese,mozzarella_cheese,127,dairy,0.029640589948
+feta_cheese,emmental_cheese,127,dairy,0.029640589948
+feta_cheese,munster_cheese,127,dairy,0.029640589948
+cottage_cheese,camembert_cheese,127,dairy,0.0166101856713
+cottage_cheese,swiss_cheese,127,dairy,0.0166101856713
+cottage_cheese,blue_cheese,131,dairy,0.0166101856713
+cottage_cheese,cheddar_cheese,131,dairy,0.0166101856713
+cottage_cheese,cheese,127,dairy,0.0166101856713
+cottage_cheese,roquefort_cheese,127,dairy,0.0166101856713
+cottage_cheese,provolone_cheese,128,dairy,0.0166101856713
+cottage_cheese,romano_cheese,127,dairy,0.0166101856713
+cottage_cheese,cream_cheese,130,dairy,0.0166101856713
+cottage_cheese,gruyere_cheese,127,dairy,0.0166101856713
+cottage_cheese,parmesan_cheese,130,dairy,0.0166101856713
+cottage_cheese,sheep_cheese,127,dairy,0.0166101856713
+cottage_cheese,emmental_cheese,127,dairy,0.0166101856713
+cottage_cheese,goat_cheese,127,dairy,0.0166101856713
+cottage_cheese,mozzarella_cheese,127,dairy,0.0166101856713
+cottage_cheese,munster_cheese,127,dairy,0.0166101856713
+cottage_cheese,feta_cheese,127,dairy,0.0166101856713
+mozzarella_cheese,camembert_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,swiss_cheese,129,dairy,0.0615722399885
+mozzarella_cheese,blue_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,cheddar_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,cheese,127,dairy,0.0615722399885
+mozzarella_cheese,roquefort_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,provolone_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,romano_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,cream_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,gruyere_cheese,128,dairy,0.0615722399885
+mozzarella_cheese,parmesan_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,cottage_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,goat_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,sheep_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,emmental_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,feta_cheese,127,dairy,0.0615722399885
+mozzarella_cheese,munster_cheese,127,dairy,0.0615722399885
+swiss_cheese,camembert_cheese,130,dairy,0.024915278507
+swiss_cheese,provolone_cheese,127,dairy,0.024915278507
+swiss_cheese,cheese,127,dairy,0.024915278507
+swiss_cheese,sheep_cheese,127,dairy,0.024915278507
+swiss_cheese,cream,27,dairy,0.024915278507
+swiss_cheese,romano_cheese,128,dairy,0.024915278507
+swiss_cheese,roquefort_cheese,127,dairy,0.024915278507
+swiss_cheese,emmental_cheese,127,dairy,0.024915278507
+swiss_cheese,feta_cheese,129,dairy,0.024915278507
+swiss_cheese,parmesan_cheese,129,dairy,0.024915278507
+swiss_cheese,cottage_cheese,127,dairy,0.024915278507
+swiss_cheese,goat_cheese,127,dairy,0.024915278507
+swiss_cheese,beer,95,dairy,0.024915278507
+swiss_cheese,cream_cheese,127,dairy,0.024915278507
+swiss_cheese,blue_cheese,134,dairy,0.024915278507
+swiss_cheese,mozzarella_cheese,129,dairy,0.024915278507
+swiss_cheese,munster_cheese,127,dairy,0.024915278507
+swiss_cheese,cheddar_cheese,136,dairy,0.024915278507
+swiss_cheese,gruyere_cheese,131,dairy,0.024915278507
+cream_cheese,camembert_cheese,127,dairy,0.135506658393
+cream_cheese,swiss_cheese,127,dairy,0.135506658393
+cream_cheese,blue_cheese,130,dairy,0.135506658393
+cream_cheese,cheddar_cheese,130,dairy,0.135506658393
+cream_cheese,cheese,127,dairy,0.135506658393
+cream_cheese,roquefort_cheese,127,dairy,0.135506658393
+cream_cheese,provolone_cheese,127,dairy,0.135506658393
+cream_cheese,romano_cheese,127,dairy,0.135506658393
+cream_cheese,sheep_cheese,127,dairy,0.135506658393
+cream_cheese,emmental_cheese,127,dairy,0.135506658393
+cream_cheese,feta_cheese,127,dairy,0.135506658393
+cream_cheese,parmesan_cheese,130,dairy,0.135506658393
+cream_cheese,cottage_cheese,130,dairy,0.135506658393
+cream_cheese,goat_cheese,127,dairy,0.135506658393
+cream_cheese,mozzarella_cheese,127,dairy,0.135506658393
+cream_cheese,munster_cheese,127,dairy,0.135506658393
+cream_cheese,gruyere_cheese,127,dairy,0.135506658393
+goat_cheese,camembert_cheese,127,dairy,0.0123621784163
+goat_cheese,swiss_cheese,127,dairy,0.0123621784163
+goat_cheese,blue_cheese,128,dairy,0.0123621784163
+goat_cheese,cheddar_cheese,128,dairy,0.0123621784163
+goat_cheese,cheese,127,dairy,0.0123621784163
+goat_cheese,roquefort_cheese,127,dairy,0.0123621784163
+goat_cheese,provolone_cheese,129,dairy,0.0123621784163
+goat_cheese,romano_cheese,130,dairy,0.0123621784163
+goat_cheese,cream_cheese,127,dairy,0.0123621784163
+goat_cheese,gruyere_cheese,127,dairy,0.0123621784163
+goat_cheese,parmesan_cheese,128,dairy,0.0123621784163
+goat_cheese,cottage_cheese,127,dairy,0.0123621784163
+goat_cheese,sheep_cheese,130,dairy,0.0123621784163
+goat_cheese,emmental_cheese,127,dairy,0.0123621784163
+goat_cheese,feta_cheese,127,dairy,0.0123621784163
+goat_cheese,mozzarella_cheese,127,dairy,0.0123621784163
+goat_cheese,munster_cheese,127,dairy,0.0123621784163
+munster_cheese,camembert_cheese,127,dairy,0.00128872130209
+munster_cheese,swiss_cheese,127,dairy,0.00128872130209
+munster_cheese,blue_cheese,127,dairy,0.00128872130209
+munster_cheese,cheddar_cheese,127,dairy,0.00128872130209
+munster_cheese,cheese,127,dairy,0.00128872130209
+munster_cheese,roquefort_cheese,127,dairy,0.00128872130209
+munster_cheese,provolone_cheese,127,dairy,0.00128872130209
+munster_cheese,romano_cheese,127,dairy,0.00128872130209
+munster_cheese,cream_cheese,127,dairy,0.00128872130209
+munster_cheese,gruyere_cheese,127,dairy,0.00128872130209
+munster_cheese,parmesan_cheese,127,dairy,0.00128872130209
+munster_cheese,cottage_cheese,127,dairy,0.00128872130209
+munster_cheese,goat_cheese,127,dairy,0.00128872130209
+munster_cheese,sheep_cheese,127,dairy,0.00128872130209
+munster_cheese,mozzarella_cheese,127,dairy,0.00128872130209
+munster_cheese,feta_cheese,127,dairy,0.00128872130209
+munster_cheese,emmental_cheese,127,dairy,0.00128872130209
+gruyere_cheese,camembert_cheese,129,dairy,0.00210013841821
+gruyere_cheese,swiss_cheese,131,dairy,0.00210013841821
+gruyere_cheese,blue_cheese,131,dairy,0.00210013841821
+gruyere_cheese,cheddar_cheese,128,dairy,0.00210013841821
+gruyere_cheese,cheese,127,dairy,0.00210013841821
+gruyere_cheese,roquefort_cheese,127,dairy,0.00210013841821
+gruyere_cheese,provolone_cheese,127,dairy,0.00210013841821
+gruyere_cheese,romano_cheese,128,dairy,0.00210013841821
+gruyere_cheese,beer,101,dairy,0.00210013841821
+gruyere_cheese,cream_cheese,127,dairy,0.00210013841821
+gruyere_cheese,sheep_cheese,127,dairy,0.00210013841821
+gruyere_cheese,emmental_cheese,127,dairy,0.00210013841821
+gruyere_cheese,parmesan_cheese,134,dairy,0.00210013841821
+gruyere_cheese,cottage_cheese,127,dairy,0.00210013841821
+gruyere_cheese,goat_cheese,127,dairy,0.00210013841821
+gruyere_cheese,mozzarella_cheese,128,dairy,0.00210013841821
+gruyere_cheese,munster_cheese,127,dairy,0.00210013841821
+gruyere_cheese,feta_cheese,128,dairy,0.00210013841821
+cayenne,pepper,36,spice,0.379456827836
+cayenne,green_bell_pepper,36,spice,0.379456827836
+cayenne,black_pepper,36,spice,0.379456827836
+cayenne,tabasco_pepper,36,spice,0.379456827836
+cayenne,bell_pepper,36,spice,0.379456827836
+cayenne,thai_pepper,36,spice,0.379456827836
+pepper,cayenne,36,spice,0.432437592478
+pepper,thai_pepper,36,spice,0.432437592478
+pepper,black_pepper,36,spice,0.432437592478
+pepper,green_bell_pepper,36,spice,0.432437592478
+pepper,tabasco_pepper,36,spice,0.432437592478
+pepper,bell_pepper,36,spice,0.432437592478
+green_bell_pepper,cayenne,36,vegetable,0.12304901914
+green_bell_pepper,thai_pepper,36,vegetable,0.12304901914
+green_bell_pepper,black_pepper,36,vegetable,0.12304901914
+green_bell_pepper,pepper,36,vegetable,0.12304901914
+green_bell_pepper,bell_pepper,36,vegetable,0.12304901914
+green_bell_pepper,tabasco_pepper,36,vegetable,0.12304901914
+black_pepper,cayenne,36,spice,0.465467042146
+black_pepper,thai_pepper,36,spice,0.465467042146
+black_pepper,pepper,36,spice,0.465467042146
+black_pepper,green_bell_pepper,36,spice,0.465467042146
+black_pepper,tabasco_pepper,36,spice,0.465467042146
+black_pepper,bell_pepper,36,spice,0.465467042146
+tabasco_pepper,cayenne,36,spice,0.0460598539449
+tabasco_pepper,thai_pepper,38,spice,0.0460598539449
+tabasco_pepper,black_pepper,36,spice,0.0460598539449
+tabasco_pepper,pepper,36,spice,0.0460598539449
+tabasco_pepper,bell_pepper,37,spice,0.0460598539449
+tabasco_pepper,green_bell_pepper,36,spice,0.0460598539449
+bell_pepper,cayenne,36,vegetable,0.279079757529
+bell_pepper,thai_pepper,36,vegetable,0.279079757529
+bell_pepper,black_pepper,36,vegetable,0.279079757529
+bell_pepper,pepper,36,vegetable,0.279079757529
+bell_pepper,mace,16,vegetable,0.279079757529
+bell_pepper,green_bell_pepper,36,vegetable,0.279079757529
+bell_pepper,tabasco_pepper,37,vegetable,0.279079757529
+bell_pepper,black_tea,41,vegetable,0.279079757529
+thai_pepper,cayenne,36,spice,0.00415254641783
+thai_pepper,pepper,36,spice,0.00415254641783
+thai_pepper,green_bell_pepper,36,spice,0.00415254641783
+thai_pepper,black_pepper,36,spice,0.00415254641783
+thai_pepper,tabasco_pepper,38,spice,0.00415254641783
+thai_pepper,bell_pepper,36,spice,0.00415254641783
+geranium,gardenia,5,flower,4.77304185958e-05
+geranium,flower,5,flower,4.77304185958e-05
+geranium,carnation,5,flower,4.77304185958e-05
+geranium,black_tea,11,flower,4.77304185958e-05
+gardenia,geranium,5,flower,0.000429573767362
+gardenia,carnation,5,flower,0.000429573767362
+gardenia,lavender,5,flower,0.000429573767362
+gardenia,rose,5,flower,0.000429573767362
+gardenia,flower,5,flower,0.000429573767362
+gardenia,orange_flower,5,flower,0.000429573767362
+gardenia,jasmine,6,flower,0.000429573767362
+flower,geranium,5,flower,0.00143191255787
+flower,carnation,5,flower,0.00143191255787
+flower,lavender,5,flower,0.00143191255787
+flower,rose,5,flower,0.00143191255787
+flower,gardenia,5,flower,0.00143191255787
+flower,jasmine,5,flower,0.00143191255787
+flower,orange_flower,5,flower,0.00143191255787
+carnation,geranium,5,flower,0.000143191255787
+carnation,flower,5,flower,0.000143191255787
+carnation,orange_flower,5,flower,0.000143191255787
+carnation,rose,5,flower,0.000143191255787
+carnation,jasmine,5,flower,0.000143191255787
+carnation,lavender,5,flower,0.000143191255787
+carnation,gardenia,5,flower,0.000143191255787
+grape_brandy,cognac,6,alcoholic beverage,0.000381843348766
+melon,strawberry,67,fruit,0.00749367571954
+melon,apple,71,fruit,0.00749367571954
+melon,nectarine,31,fruit,0.00749367571954
+melon,durian,15,fruit,0.00749367571954
+nectarine,melon,31,fruit,0.00238652092979
+nectarine,guava,32,fruit,0.00238652092979
+nectarine,strawberry,40,fruit,0.00238652092979
+nectarine,apple,32,fruit,0.00238652092979
+nectarine,mango,31,fruit,0.00238652092979
+durian,melon,15,fruit,4.77304185958e-05
+mung_bean,kidney_bean,86,vegetable,0.00090687795332
+mung_bean,red_bean,86,vegetable,0.00090687795332
+mung_bean,black_bean,86,vegetable,0.00090687795332
+mung_bean,lima_bean,86,vegetable,0.00090687795332
+mung_bean,bean,86,vegetable,0.00090687795332
+mung_bean,soybean,86,vegetable,0.00090687795332
+mung_bean,red_kidney_bean,86,vegetable,0.00090687795332
+kidney_bean,mung_bean,86,vegetable,0.0210968450193
+kidney_bean,lima_bean,87,vegetable,0.0210968450193
+kidney_bean,bean,86,vegetable,0.0210968450193
+kidney_bean,red_bean,86,vegetable,0.0210968450193
+kidney_bean,black_bean,86,vegetable,0.0210968450193
+kidney_bean,soybean,86,vegetable,0.0210968450193
+kidney_bean,red_kidney_bean,86,vegetable,0.0210968450193
+red_bean,mung_bean,86,vegetable,0.00157510381366
+red_bean,lima_bean,86,vegetable,0.00157510381366
+red_bean,bean,86,vegetable,0.00157510381366
+red_bean,kidney_bean,86,vegetable,0.00157510381366
+red_bean,black_bean,86,vegetable,0.00157510381366
+red_bean,soybean,86,vegetable,0.00157510381366
+red_bean,red_kidney_bean,86,vegetable,0.00157510381366
+black_bean,mung_bean,86,vegetable,0.0226242184144
+black_bean,lima_bean,86,vegetable,0.0226242184144
+black_bean,bean,86,vegetable,0.0226242184144
+black_bean,kidney_bean,86,vegetable,0.0226242184144
+black_bean,red_bean,86,vegetable,0.0226242184144
+black_bean,soybean,86,vegetable,0.0226242184144
+black_bean,red_kidney_bean,86,vegetable,0.0226242184144
+lima_bean,mung_bean,86,vegetable,0.00711183237077
+lima_bean,kidney_bean,87,vegetable,0.00711183237077
+lima_bean,red_bean,86,vegetable,0.00711183237077
+lima_bean,black_bean,86,vegetable,0.00711183237077
+lima_bean,bean,86,vegetable,0.00711183237077
+lima_bean,soybean,86,vegetable,0.00711183237077
+lima_bean,red_kidney_bean,90,vegetable,0.00711183237077
+bean,mung_bean,86,vegetable,0.0908309865878
+bean,lima_bean,86,vegetable,0.0908309865878
+bean,kidney_bean,86,vegetable,0.0908309865878
+bean,red_bean,86,vegetable,0.0908309865878
+bean,black_bean,86,vegetable,0.0908309865878
+bean,soybean,86,vegetable,0.0908309865878
+bean,red_kidney_bean,86,vegetable,0.0908309865878
+red_kidney_bean,mung_bean,86,vegetable,0.00281609469715
+red_kidney_bean,lima_bean,90,vegetable,0.00281609469715
+red_kidney_bean,bean,86,vegetable,0.00281609469715
+red_kidney_bean,kidney_bean,86,vegetable,0.00281609469715
+red_kidney_bean,red_bean,86,vegetable,0.00281609469715
+red_kidney_bean,black_bean,86,vegetable,0.00281609469715
+red_kidney_bean,soybean,86,vegetable,0.00281609469715
+rice,brown_rice,74,cereal/crop,0.162044771133
+brown_rice,rice,74,cereal/crop,0.0160851510668
+jasmine_tea,coffee,86,plant derivative,4.77304185958e-05
+jasmine_tea,tea,171,plant derivative,4.77304185958e-05
+jasmine_tea,peppermint,29,plant derivative,4.77304185958e-05
+jasmine_tea,lemon_peel,8,plant derivative,4.77304185958e-05
+jasmine_tea,peppermint_oil,17,plant derivative,4.77304185958e-05
+jasmine_tea,black_tea,172,plant derivative,4.77304185958e-05
+jasmine_tea,japanese_plum,6,plant derivative,4.77304185958e-05
+jasmine_tea,green_tea,172,plant derivative,4.77304185958e-05
+tea,coffee,86,plant derivative,0.00482077227817
+tea,peppermint_oil,17,plant derivative,0.00482077227817
+tea,jasmine_tea,171,plant derivative,0.00482077227817
+tea,green_tea,171,plant derivative,0.00482077227817
+tea,peppermint,29,plant derivative,0.00482077227817
+tea,japanese_plum,6,plant derivative,0.00482077227817
+tea,black_tea,171,plant derivative,0.00482077227817
+tea,lemon_peel,8,plant derivative,0.00482077227817
+green_tea,coffee,93,plant derivative,0.00152737339506
+green_tea,vanilla,44,plant derivative,0.00152737339506
+green_tea,tea,171,plant derivative,0.00152737339506
+green_tea,peppermint,33,plant derivative,0.00152737339506
+green_tea,lemon_peel,10,plant derivative,0.00152737339506
+green_tea,jasmine_tea,172,plant derivative,0.00152737339506
+green_tea,jasmine,11,plant derivative,0.00152737339506
+green_tea,peppermint_oil,21,plant derivative,0.00152737339506
+green_tea,black_tea,177,plant derivative,0.00152737339506
+green_tea,basil,10,plant derivative,0.00152737339506
+green_tea,japanese_plum,6,plant derivative,0.00152737339506
+okra,coffee,21,fruit,0.00477304185958
+okra,soybean,18,fruit,0.00477304185958
+okra,black_tea,18,fruit,0.00477304185958
+wood,coffee,5,plant,0.00157510381366
+popcorn,coffee,25,cereal/crop,0.00462985060379
+popcorn,peanut_butter,23,cereal/crop,0.00462985060379
+popcorn,roasted_peanut,23,cereal/crop,0.00462985060379
+squid,coffee,17,fish/seafood,0.0108825354398
+orange_flower,carnation,5,flower,0.000859147534724
+orange_flower,gardenia,5,flower,0.000859147534724
+orange_flower,jasmine,6,flower,0.000859147534724
+orange_flower,flower,5,flower,0.000859147534724
+rose,carnation,5,flower,0.00300701637153
+rose,gardenia,5,flower,0.00300701637153
+rose,flower,5,flower,0.00300701637153
+jasmine,carnation,5,flower,0.00033411293017
+jasmine,gardenia,6,flower,0.00033411293017
+jasmine,flower,5,flower,0.00033411293017
+jasmine,orange_flower,6,flower,0.00033411293017
+jasmine,black_tea,10,flower,0.00033411293017
+jasmine,green_tea,11,flower,0.00033411293017
+lavender,carnation,5,flower,0.00295928595294
+lavender,gardenia,5,flower,0.00295928595294
+lavender,flower,5,flower,0.00295928595294
+citrus,orange,51,fruit,0.00778005823111
+citrus,mandarin,51,fruit,0.00778005823111
+citrus,lemon,51,fruit,0.00778005823111
+citrus,tangerine,51,fruit,0.00778005823111
+citrus,lime,51,fruit,0.00778005823111
+mandarin,citrus,51,fruit,0.0132690563696
+mandarin,orange,57,fruit,0.0132690563696
+mandarin,lemon,56,fruit,0.0132690563696
+mandarin,tangerine,53,fruit,0.0132690563696
+mandarin,lime,53,fruit,0.0132690563696
+lemon,citrus,51,fruit,0.145386855043
+lemon,citrus_peel,33,fruit,0.145386855043
+lemon,bergamot,9,fruit,0.145386855043
+lemon,lemongrass,13,fruit,0.145386855043
+lemon,mandarin,56,fruit,0.145386855043
+lemon,lime,58,fruit,0.145386855043
+lemon,bitter_orange,25,fruit,0.145386855043
+lemon,tangerine,55,fruit,0.145386855043
+lemon,orange,69,fruit,0.145386855043
+tangerine,citrus,51,fruit,0.00210013841821
+tangerine,bergamot,8,fruit,0.00210013841821
+tangerine,strawberry,41,fruit,0.00210013841821
+tangerine,mandarin,53,fruit,0.00210013841821
+tangerine,lime,53,fruit,0.00210013841821
+tangerine,lemon,55,fruit,0.00210013841821
+tangerine,orange,62,fruit,0.00210013841821
+lime,citrus,51,fruit,0.0516920433392
+lime,mandarin,53,fruit,0.0516920433392
+lime,orange,56,fruit,0.0516920433392
+lime,tangerine,53,fruit,0.0516920433392
+lime,lemon,58,fruit,0.0516920433392
+vegetable,watercress,5,vegetable,0.079232494869
+watercress,vegetable,5,vegetable,0.00630041525464
+potato_chip,peanut_butter,23,vegetable,0.00310247720873
+potato_chip,roasted_peanut,23,vegetable,0.00310247720873
+potato_chip,roasted_beef,24,vegetable,0.00310247720873
+smoked_fish,cod,64,fish/seafood,0.000286382511575
+smoked_fish,haddock,64,fish/seafood,0.000286382511575
+smoked_fish,mackerel,64,fish/seafood,0.000286382511575
+smoked_fish,salmon,64,fish/seafood,0.000286382511575
+smoked_fish,eel,64,fish/seafood,0.000286382511575
+smoked_fish,catfish,64,fish/seafood,0.000286382511575
+smoked_fish,tuna,64,fish/seafood,0.000286382511575
+smoked_fish,herring,64,fish/seafood,0.000286382511575
+smoked_fish,fish,64,fish/seafood,0.000286382511575
+smoked_fish,smoked_salmon,64,fish/seafood,0.000286382511575
+cod,smoked_fish,64,fish/seafood,0.00830509283566
+cod,eel,64,fish/seafood,0.00830509283566
+cod,fish,64,fish/seafood,0.00830509283566
+cod,smoked_salmon,65,fish/seafood,0.00830509283566
+cod,herring,65,fish/seafood,0.00830509283566
+cod,mackerel,64,fish/seafood,0.00830509283566
+cod,haddock,64,fish/seafood,0.00830509283566
+cod,catfish,64,fish/seafood,0.00830509283566
+cod,salmon,65,fish/seafood,0.00830509283566
+cod,tuna,65,fish/seafood,0.00830509283566
+haddock,smoked_fish,64,fish/seafood,0.00147964297647
+haddock,eel,64,fish/seafood,0.00147964297647
+haddock,fish,64,fish/seafood,0.00147964297647
+haddock,smoked_salmon,64,fish/seafood,0.00147964297647
+haddock,herring,64,fish/seafood,0.00147964297647
+haddock,mackerel,64,fish/seafood,0.00147964297647
+haddock,cod,64,fish/seafood,0.00147964297647
+haddock,salmon,64,fish/seafood,0.00147964297647
+haddock,catfish,65,fish/seafood,0.00147964297647
+haddock,tuna,64,fish/seafood,0.00147964297647
+mackerel,smoked_fish,64,fish/seafood,0.00210013841821
+mackerel,eel,65,fish/seafood,0.00210013841821
+mackerel,fish,64,fish/seafood,0.00210013841821
+mackerel,smoked_salmon,64,fish/seafood,0.00210013841821
+mackerel,herring,64,fish/seafood,0.00210013841821
+mackerel,cod,64,fish/seafood,0.00210013841821
+mackerel,haddock,64,fish/seafood,0.00210013841821
+mackerel,salmon,64,fish/seafood,0.00210013841821
+mackerel,catfish,64,fish/seafood,0.00210013841821
+mackerel,tuna,65,fish/seafood,0.00210013841821
+salmon,smoked_fish,64,fish/seafood,0.0207150016706
+salmon,eel,64,fish/seafood,0.0207150016706
+salmon,fish,64,fish/seafood,0.0207150016706
+salmon,smoked_salmon,84,fish/seafood,0.0207150016706
+salmon,herring,65,fish/seafood,0.0207150016706
+salmon,caviar,18,fish/seafood,0.0207150016706
+salmon,sturgeon_caviar,19,fish/seafood,0.0207150016706
+salmon,mackerel,64,fish/seafood,0.0207150016706
+salmon,haddock,64,fish/seafood,0.0207150016706
+salmon,catfish,64,fish/seafood,0.0207150016706
+salmon,cod,65,fish/seafood,0.0207150016706
+salmon,tuna,84,fish/seafood,0.0207150016706
+eel,smoked_fish,64,fish/seafood,0.000954608371915
+eel,fish,64,fish/seafood,0.000954608371915
+eel,mackerel,65,fish/seafood,0.000954608371915
+eel,salmon,64,fish/seafood,0.000954608371915
+eel,haddock,64,fish/seafood,0.000954608371915
+eel,catfish,64,fish/seafood,0.000954608371915
+eel,tuna,65,fish/seafood,0.000954608371915
+eel,smoked_salmon,64,fish/seafood,0.000954608371915
+eel,herring,64,fish/seafood,0.000954608371915
+eel,cod,64,fish/seafood,0.000954608371915
+catfish,smoked_fish,64,fish/seafood,0.00324566846451
+catfish,eel,64,fish/seafood,0.00324566846451
+catfish,fish,64,fish/seafood,0.00324566846451
+catfish,smoked_salmon,64,fish/seafood,0.00324566846451
+catfish,herring,64,fish/seafood,0.00324566846451
+catfish,mackerel,64,fish/seafood,0.00324566846451
+catfish,haddock,65,fish/seafood,0.00324566846451
+catfish,salmon,64,fish/seafood,0.00324566846451
+catfish,cod,64,fish/seafood,0.00324566846451
+catfish,tuna,64,fish/seafood,0.00324566846451
+tuna,smoked_fish,64,fish/seafood,0.0211445754379
+tuna,eel,65,fish/seafood,0.0211445754379
+tuna,fish,64,fish/seafood,0.0211445754379
+tuna,smoked_salmon,84,fish/seafood,0.0211445754379
+tuna,herring,65,fish/seafood,0.0211445754379
+tuna,caviar,18,fish/seafood,0.0211445754379
+tuna,sturgeon_caviar,19,fish/seafood,0.0211445754379
+tuna,mackerel,65,fish/seafood,0.0211445754379
+tuna,haddock,64,fish/seafood,0.0211445754379
+tuna,catfish,64,fish/seafood,0.0211445754379
+tuna,cod,65,fish/seafood,0.0211445754379
+tuna,salmon,84,fish/seafood,0.0211445754379
+herring,smoked_fish,64,fish/seafood,0.000477304185958
+herring,eel,64,fish/seafood,0.000477304185958
+herring,fish,64,fish/seafood,0.000477304185958
+herring,smoked_salmon,65,fish/seafood,0.000477304185958
+herring,cod,65,fish/seafood,0.000477304185958
+herring,haddock,64,fish/seafood,0.000477304185958
+herring,mackerel,64,fish/seafood,0.000477304185958
+herring,salmon,65,fish/seafood,0.000477304185958
+herring,catfish,64,fish/seafood,0.000477304185958
+herring,tuna,65,fish/seafood,0.000477304185958
+fish,smoked_fish,64,fish/seafood,0.0896854565415
+fish,eel,64,fish/seafood,0.0896854565415
+fish,cod,64,fish/seafood,0.0896854565415
+fish,haddock,64,fish/seafood,0.0896854565415
+fish,mackerel,64,fish/seafood,0.0896854565415
+fish,salmon,64,fish/seafood,0.0896854565415
+fish,catfish,64,fish/seafood,0.0896854565415
+fish,tuna,64,fish/seafood,0.0896854565415
+fish,herring,64,fish/seafood,0.0896854565415
+fish,smoked_salmon,64,fish/seafood,0.0896854565415
+smoked_salmon,smoked_fish,64,fish/seafood,0.00462985060379
+smoked_salmon,eel,64,fish/seafood,0.00462985060379
+smoked_salmon,fish,64,fish/seafood,0.00462985060379
+smoked_salmon,caviar,18,fish/seafood,0.00462985060379
+smoked_salmon,mackerel,64,fish/seafood,0.00462985060379
+smoked_salmon,sturgeon_caviar,19,fish/seafood,0.00462985060379
+smoked_salmon,salmon,84,fish/seafood,0.00462985060379
+smoked_salmon,haddock,64,fish/seafood,0.00462985060379
+smoked_salmon,catfish,64,fish/seafood,0.00462985060379
+smoked_salmon,tuna,84,fish/seafood,0.00462985060379
+smoked_salmon,herring,65,fish/seafood,0.00462985060379
+smoked_salmon,cod,65,fish/seafood,0.00462985060379
+white_bread,bread,51,cereal/crop,0.0176602548804
+coriander,mace,16,spice,0.072263853754
+mace,coriander,16,spice,0.00548899813851
+mace,nutmeg,17,spice,0.00548899813851
+mace,bell_pepper,16,spice,0.00548899813851
+mace,ginger,16,spice,0.00548899813851
+lovage,leaf,16,herb,0.0067777194406
+leaf,lovage,16,plant,0.000429573767362
+thyme,black_tea,17,herb,0.14514820295
+shallot,onion,12,vegetable,0.0566560068732
+shallot,roasted_beef,10,vegetable,0.0566560068732
+shallot,leek,11,vegetable,0.0566560068732
+garlic,onion,16,vegetable,0.806309961338
+garlic,roasted_beef,11,vegetable,0.806309961338
+garlic,leek,10,vegetable,0.806309961338
+chive,onion,17,vegetable,0.0627655004534
+chive,leek,11,vegetable,0.0627655004534
+citrus_peel,orange,40,plant,0.000190921674383
+citrus_peel,lemon,33,plant,0.000190921674383
+citrus_peel,black_tea,33,plant,0.000190921674383
+seed,nutmeg,12,nut/seed/pulse,0.0626700396162
+seed,black_sesame_seed,17,nut/seed/pulse,0.0626700396162
+seed,rapeseed,17,nut/seed/pulse,0.0626700396162
+black_sesame_seed,nutmeg,12,nut/seed/pulse,0.00124099088349
+black_sesame_seed,seed,17,nut/seed/pulse,0.00124099088349
+black_sesame_seed,rapeseed,17,nut/seed/pulse,0.00124099088349
+rapeseed,nutmeg,12,plant,0.000143191255787
+rapeseed,black_sesame_seed,17,plant,0.000143191255787
+rapeseed,seed,17,plant,0.000143191255787
+rosemary,basil,10,herb,0.090210491146
+rosemary,ginger,17,herb,0.090210491146
+basil,rosemary,10,herb,0.180373251873
+basil,black_tea,11,herb,0.180373251873
+basil,orange,10,herb,0.180373251873
+basil,green_tea,10,herb,0.180373251873
+vanilla,green_tea,44,spice,0.430767027827
+vanilla,black_tea,45,spice,0.430767027827
+peppermint_oil,tea,17,plant derivative,0.000429573767362
+peppermint_oil,peppermint,58,plant derivative,0.000429573767362
+peppermint_oil,jasmine_tea,17,plant derivative,0.000429573767362
+peppermint_oil,green_tea,21,plant derivative,0.000429573767362
+peppermint_oil,black_tea,21,plant derivative,0.000429573767362
+peppermint,tea,29,herb,0.0067777194406
+peppermint,peppermint_oil,58,herb,0.0067777194406
+peppermint,jasmine_tea,29,herb,0.0067777194406
+peppermint,green_tea,33,herb,0.0067777194406
+peppermint,black_tea,33,herb,0.0067777194406
+peppermint,lemon_peel,8,herb,0.0067777194406
+japanese_plum,tea,6,fruit,0.000620495441745
+japanese_plum,jasmine_tea,6,fruit,0.000620495441745
+japanese_plum,black_tea,7,fruit,0.000620495441745
+japanese_plum,green_tea,6,fruit,0.000620495441745
+lemon_peel,tea,8,plant,0.034127249296
+lemon_peel,peppermint,8,plant,0.034127249296
+lemon_peel,jasmine_tea,8,plant,0.034127249296
+lemon_peel,black_tea,8,plant,0.034127249296
+lemon_peel,green_tea,10,plant,0.034127249296
+lemon_peel,orange,8,plant,0.034127249296
+lemon_peel,lime_peel_oil,6,plant,0.034127249296
+almond,roasted_almond,9,nut/seed/pulse,0.110734571142
+roasted_almond,almond,9,nut/seed/pulse,0.000143191255787
+bergamot,orange,9,flower,0.00033411293017
+bergamot,lemon,9,flower,0.00033411293017
+bergamot,tangerine,8,flower,0.00033411293017
+lemongrass,lemon,13,herb,0.00653906734762
+honey,strawberry,40,animal product,0.118514629373
+honey,apple,41,animal product,0.118514629373
+bitter_orange,strawberry,25,fruit,0.00396162474345
+bitter_orange,orange,23,fruit,0.00396162474345
+bitter_orange,lemon,25,fruit,0.00396162474345
+quince,strawberry,35,fruit,0.00133645172068
+quince,passion_fruit,35,fruit,0.00133645172068
+quince,apricot,33,fruit,0.00133645172068
+quince,apple,36,fruit,0.00133645172068
+bartlett_pear,strawberry,38,fruit,0.0010977996277
+bartlett_pear,pear,49,fruit,0.0010977996277
+bartlett_pear,apple,44,fruit,0.0010977996277
+banana,strawberry,69,fruit,0.0469667318982
+banana,apple,85,fruit,0.0469667318982
+kiwi,strawberry,39,fruit,0.00501169395256
+kiwi,apple,36,fruit,0.00501169395256
+papaya,strawberry,71,fruit,0.00219559925541
+pear,strawberry,38,fruit,0.0223378359028
+pear,bartlett_pear,49,fruit,0.0223378359028
+pear,apple,44,fruit,0.0223378359028
+olive,strawberry,47,fruit,0.0857715622166
+apricot,strawberry,70,fruit,0.0295928595294
+apricot,quince,33,fruit,0.0295928595294
+apricot,apple,74,fruit,0.0295928595294
+plum,strawberry,63,fruit,0.013221325951
+plum,apple,64,fruit,0.013221325951
+mango,strawberry,82,fruit,0.0185194024152
+mango,black_tea,79,fruit,0.0185194024152
+mango,nectarine,31,fruit,0.0185194024152
+grapefruit,orange,30,fruit,0.00558445897571
+lime_peel_oil,lemon_peel,6,plant derivative,0.00477304185958
+sturgeon_caviar,smoked_salmon,19,fish/seafood,4.77304185958e-05
+sturgeon_caviar,caviar,21,fish/seafood,4.77304185958e-05
+sturgeon_caviar,roasted_beef,19,fish/seafood,4.77304185958e-05
+sturgeon_caviar,salmon,19,fish/seafood,4.77304185958e-05
+sturgeon_caviar,tuna,19,fish/seafood,4.77304185958e-05
+lingonberry,black_tea,11,fruit,0.000429573767362
+cream,swiss_cheese,27,dairy,0.484559209584
+cream,blue_cheese,27,dairy,0.484559209584
+cream,cheddar_cheese,28,dairy,0.484559209584
+buttermilk,blue_cheese,12,dairy,0.0779437735669
+buttermilk,cheddar_cheese,12,dairy,0.0779437735669
+coconut,coconut_oil,18,nut/seed/pulse,0.0816190157988
+coconut_oil,coconut,18,plant derivative,0.000811417116128
+mint,black_tea,24,herb,0.0444847501313
+strawberry_jam,black_tea,17,fruit,4.77304185958e-05
+spearmint,black_tea,23,herb,0.000238652092979
+tomato,black_tea,84,vegetable,0.472960717865
+clove,anise,9,spice,0.000477304185958
+hop,beer,62,cereal/crop,0.000143191255787
+malt,beer,60,cereal/crop,0.00176602548804
+butter,roasted_beef,81,dairy,0.990119803351
+potato,roasted_beef,66,vegetable,0.169204333922
+potato,baked_potato,97,vegetable,0.169204333922
+egg,roasted_beef,42,animal product,1.0
+leek,shallot,11,vegetable,0.0196172020429
+leek,chive,11,vegetable,0.0196172020429
+leek,garlic,10,vegetable,0.0196172020429
