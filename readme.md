@@ -5,6 +5,7 @@ Flavor network is a graph network of food ingredients based on flavor compounds 
 
 ##Data and graph
 Flavor profile data came from Y-Y Ahn's work (see reference), including 1530 food ingredients, flavor compounds and 36,781 edges. Using networkx and cytoscape, I am able to build food flavor network, with each node representing a food ingredient and the edge between nodes representing the number of flavor compounds they shared. The original network is too dense to visualize. After backbone extraction, I am able to produce a more visually compelling network graph, albeit with less ingredients, as only ingredients with significant connections to others are kept after backbone extraction.
+![alt_text](images/flavor_graph)
 
 ##Classification and clustering of regional cuisines
 The next step is to project recipes with ingredient lists into the flavor space. I scrapped ~9,000 recipes using Yummly's API and pickled the dataframe. After cleaning up, I am able to match ~7000 recipes into the ingredient space. (Some recipes have to be discarded as their ingredients are not listed in the flavor network.) Using ingredient-flavor matrix, I am able to map these recipes into flavor space, with counts for each flavor compound.
